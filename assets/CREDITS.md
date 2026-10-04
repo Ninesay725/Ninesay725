@@ -1,10 +1,21 @@
 # Artwork and icon credits
 
+## Current anime edition
+
+- `anime-hero.png`: generated with OpenAI image generation for this personal profile on October 4, 2026. Newly composed anime-style fan art featuring Sparkle from Honkai: Star Rail (HoYoverse) and Xi Shi from Honor of Kings (Tencent/TiMi). Character designs belong to their respective owners. This is generated fan art, not official or commissioned artwork. Official character artwork was used as appearance reference only.
+- `java-kawaii.png`, `python-kawaii.png`, `cpp-kawaii.png`, `django-kawaii.png`, `react-kawaii.png`, and `nextjs-kawaii.png`: unmodified fan logos by [andregans](https://github.com/andregans/code_logotype). The author permits personal use only and prohibits sale or commercial use; see the saved [author notice](./LICENSE-code-logotype.md). Displayed on this noncommercial personal profile.
+- `springboot-kawaii.png`: unmodified fan logo by [syke9p3](https://github.com/syke9p3/Syke-VTuber-Icons), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Full license: [LICENSE-syke-vtuber.md](./LICENSE-syke-vtuber.md).
+- `vue-kawaii.png`: unmodified fan logo by [icarusgk](https://github.com/icarusgk/kawaii-tech-logos), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) with the author's stated usage guidelines; see [author notice](./LICENSE-kawaii-tech.md).
+- IntelliJ IDEA and VS Code logos are by Aikoyori, with attribution and license below.
+- All logo artwork is stored unchanged. The README only changes the displayed dimensions. These are fan logos, not official brand assets or endorsements. They were not used as inputs to image generation.
+
+## Earlier edition and Aikoyori logos
+
 - `code-garden.png`: generated with OpenAI image generation for Xu Li's profile, October 4, 2026. Pencil-and-gouache illustration with an ivory paper and sage palette. This is generated artwork, not a commissioned human drawing.
 - `intellij-kawaii.png` and `vscode-kawaii.png`: unmodified artwork by **Aikoyori**, from [ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos). Nonofficial fan logos, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Full license: `LICENSE-programming-vtuber-logos.md`. Displayed here for a noncommercial personal profile; no endorsement is implied.
 - `languages-*.svg`, `frameworks-*.svg`, and `data-tools-*.svg`: unmodified responses from [Skill Icons](https://github.com/tandpfun/skill-icons), under the MIT License. Full notice: `LICENSE-skill-icons.txt`. The filenames distinguish the provided light and dark themes.
 
-## Skill Icons source requests
+## Earlier Skill Icons source requests
 
 `https://skillicons.dev/icons?i=java,py,ts,cpp&theme=light` (and `theme=dark`)
 

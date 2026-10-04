@@ -2,7 +2,8 @@
 
 ## Current anime edition
 
-- `anime-hero.png`: generated with OpenAI image generation for this personal profile on October 4, 2026. Newly composed anime-style fan art featuring Sparkle from Honkai: Star Rail (HoYoverse) and Xi Shi from Honor of Kings (Tencent/TiMi). Character designs belong to their respective owners. This is generated fan art, not official or commissioned artwork. Official character artwork was used as appearance reference only.
+- `profile-banner.png`: generated and refined with OpenAI image generation for this personal profile on October 4, 2026. Anime-style fan art featuring Sparkle from Honkai: Star Rail (HoYoverse) and Xi Shi from Honor of Kings (Tencent/TiMi), with references supplied or selected by the profile owner. Character designs belong to their respective owners. This is generated fan art, not official or commissioned artwork. The earlier `anime-hero.png` is retained as a previous version.
+- `ribbon-divider.svg`: a small original decorative SVG created for this README, echoing the banner's rose and blue ribbons.
 - `java-kawaii.png`, `python-kawaii.png`, `cpp-kawaii.png`, `django-kawaii.png`, `react-kawaii.png`, and `nextjs-kawaii.png`: unmodified fan logos by [andregans](https://github.com/andregans/code_logotype). The author permits personal use only and prohibits sale or commercial use; see the saved [author notice](./LICENSE-code-logotype.md). Displayed on this noncommercial personal profile.
 - `springboot-kawaii.png`: unmodified fan logo by [syke9p3](https://github.com/syke9p3/Syke-VTuber-Icons), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Full license: [LICENSE-syke-vtuber.md](./LICENSE-syke-vtuber.md).
 - `vue-kawaii.png`: unmodified fan logo by [icarusgk](https://github.com/icarusgk/kawaii-tech-logos), [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) with the author's stated usage guidelines; see [author notice](./LICENSE-kawaii-tech.md).

@@ -22,6 +22,7 @@ I build **backend services and AI-powered applications** — from conversational
 <p align="center">
   <img src="./assets/java-kawaii.png" width="128" alt="Java fan logo by andregans" />
   <img src="./assets/python-kawaii.png" width="128" alt="Python fan logo by andregans" />
+  <img src="./assets/typescript-kawaii.png" width="154" alt="TypeScript fan logo by SAWARATSUKI" />
   <img src="./assets/cpp-kawaii.png" width="128" alt="C++ fan logo by andregans" />
 </p>
 
@@ -40,7 +41,16 @@ I build **backend services and AI-powered applications** — from conversational
   <img src="./assets/vscode-kawaii.png" width="128" alt="Visual Studio Code fan logo by Aikoyori" />
 </p>
 
-<p align="center"><sub><b>Data &amp; tools</b> · MySQL · PostgreSQL · Git · AWS</sub></p>
+<p align="center"><sub><b>AI coding</b> · Claude Code · Codex · Cursor</sub></p>
+<p align="center">
+  <img src="./assets/anthropic-kawaii.png" width="160" alt="Anthropic fan wordmark with the Claude mascot, by Aureal / NPSummers" />
+</p>
+
+<p align="center"><sub><b>Data &amp; tools</b> · MySQL · PostgreSQL · Git · GitHub · AWS</sub></p>
+<p align="center">
+  <img src="./assets/postgresql-kawaii.png" width="160" alt="PostgreSQL fan logo by Aureal / NPSummers" />
+  <img src="./assets/github-kawaii.png" width="128" alt="GitHub fan logo by andregans" />
+</p>
 
 <p align="center"><img src="./assets/ribbon-divider.svg" width="100%" alt="" /></p>
 
@@ -61,4 +71,4 @@ I build **backend services and AI-powered applications** — from conversational
 
 <p align="center">Thanks for stopping by. Hope you find something you like. 🌸</p>
 
-<p align="center"><sub>Fan logos by <a href="https://github.com/andregans/code_logotype">andregans</a>, <a href="https://github.com/syke9p3/Syke-VTuber-Icons">syke9p3</a>, <a href="https://github.com/icarusgk/kawaii-tech-logos">icarusgk</a> &amp; <a href="https://github.com/Aikoyori/ProgrammingVTuberLogos">Aikoyori</a> · <a href="./assets/CREDITS.md">Artwork &amp; usage credits</a></sub></p>
+<p align="center"><sub>Fan logos by <a href="https://github.com/andregans/code_logotype">andregans</a>, <a href="https://github.com/syke9p3/Syke-VTuber-Icons">syke9p3</a>, <a href="https://github.com/icarusgk/kawaii-tech-logos">icarusgk</a>, <a href="https://github.com/Aikoyori/ProgrammingVTuberLogos">Aikoyori</a>, <a href="https://github.com/SAWARATSUKI/KawaiiLogos">SAWARATSUKI</a> &amp; <a href="https://github.com/NPSummers/NPSummers">Aureal</a> · <a href="./assets/CREDITS.md">Artwork &amp; usage credits</a></sub></p>
